@@ -1,0 +1,12 @@
+{
+  "name": "gin-gorm-oj-master",
+  "version": "1.0.0",
+  "description": "> 视频链接：https://www.bilibili.com/video/av339992531/ >  > 演示地址：http://getcharzp.gitee.io/gin-gorm-oj > > 后台语言：Golang、框架：Gin、GORM >  > 前台框架：Vue、ElementUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
